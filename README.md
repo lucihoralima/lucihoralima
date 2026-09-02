@@ -4,7 +4,9 @@
 - 🚀 Preparando-se para o mercado de tecnologia
 - 📧 Contato: lucihora.lima@gmail.com
 ## 👩‍💻 Sobre mim
+🔭 Atualmente estou trabalhando em Depto. Comercial
 - 👩‍🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- 🌱 Atualmente estou aprendendo Phyton
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
 - 🌐 Interesse especial em **projetos web** e **desenvolvimento front-end**
 ## 🛠️ Tecnologias que estudo
@@ -18,9 +20,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
 **lucihoralima/lucihoralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🔭 Atualmente estou trabalhando em Depto. Comercial
-- 🌱 Atualmente estou aprendendo Phyton
-- 📫 Como entrar em contato comigo: lucihora.lima@gmail.com
+
+
 
 -->
